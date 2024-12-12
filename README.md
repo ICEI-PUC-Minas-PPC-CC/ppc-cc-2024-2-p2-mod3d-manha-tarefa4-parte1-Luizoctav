@@ -7,7 +7,6 @@
 O jogo foi feito reproduzindo o seguinte tutorial: https://youtu.be/TmxaelUqvD4?si=JYsLLu2d-Pxlx9UE
 
 Fotos do jogo:
-![WhatsApp Image 2024-12-11 at 20 54 09 (1)](https://github.com/user-attachments/assets/735cf91d-d585-4e79-a0b0-7ea8dc1ca724)
 
 ![WhatsApp Image 2024-12-11 at 20 54 09 (2)](https://github.com/user-attachments/assets/e29ce6d5-ce02-4137-a2f2-9ec77cbd0e3b)
 
