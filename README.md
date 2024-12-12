@@ -1,4 +1,4 @@
-![40169](https://github.com/user-attachments/assets/79595b0c-fda8-4760-ad29-fd990ca2fff2)# Jogo feito no Struckd
+# Jogo feito no Struckd
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelagem 3D`
