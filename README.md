@@ -1,4 +1,4 @@
-# Jogo feito no Struckd
+# Tarefa 1 - Jogo feito no Struckd
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelagem 3D`
