@@ -8,6 +8,15 @@ O jogo foi feito reproduzindo o seguinte tutorial: https://youtu.be/TmxaelUqvD4?
 
 Fotos do jogo:
 
+![WhatsApp Image 2024-12-11 at 20 54 09 (1)](https://github.com/user-attachments/assets/43cfacd1-1fdc-46bc-aa80-72227dcd30c6)
+
+![WhatsApp Image 2024-12-11 at 20 54 09 (2)](https://github.com/user-attachments/assets/572958b0-89ac-4cb3-be49-9935a8ae0ede)
+
+![WhatsApp Image 2024-12-11 at 20 54 09](https://github.com/user-attachments/assets/29352a49-c375-4672-a4ea-3185ac2210fe)
+
+![WhatsApp Image 2024-12-11 at 20 54 10 (1)](https://github.com/user-attachments/assets/77e26608-83de-4b9c-9615-607c7de44324)
+
+![WhatsApp Image 2024-12-11 at 20 54 10](https://github.com/user-attachments/assets/24874fcf-1b30-47ba-a23e-bc58ba6d4106)
 
 
 ## Integrantes
